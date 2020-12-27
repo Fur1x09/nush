@@ -1,22 +1,37 @@
-<h1 align="center"><img src="./assets/Music.gif" width="30px"> Advanced Discord Music Bot <img src="./assets/Music.gif" width="30px"></h1>
-<p align="center">Thanks for 4k Views! I made this for you all!</p>
-<div align="center"><img src="./assets/banner.gif"></div>
+Welcome to Glitch
+=================
 
-## 📝 Tutorial
-Tutorial has been uploaded on YouTube <img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="30px"> Watch it by clicking [here](https://youtu.be/DQXuTaYa31I)
+Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
 
-## 📸 Screenshots
+**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
 
-<div align="left"><img src="https://pika-pika.is-inside.me/zJduq9Gn.png"></div><div align="center"><img src="https://pika-pika.is-inside.me/9ufBoGDH.png"></div><div align="right"><img src="https://pika-pika.is-inside.me/8QkGROJv.png"></div>
+Find out more [about Glitch](https://glitch.com/about).
 
-## 💨 Run the projects
-Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/SudhanPlayz/Discord-MusicBot)
-Repl: [![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/SudhanPlayz/Discord-MusicBot)
 
-## ✨ Contributors
-Contributions are always welcomed :D
-<a href="https://github.com/SudhanPlayz/Discord-MusicBot/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=SudhanPlayz/Discord-MusicBot" />
-</a>
+Your Project
+------------
 
-Made with :heart: and JavaScript!
+### ← README.md
+
+That's this file, where you can tell people what your cool website does and how you built it.
+
+### ← index.html
+
+Where you'll write the content of your website. 
+
+### ← style.css
+
+CSS files add styling rules to your content.
+
+### ← script.js
+
+If you're feeling fancy you can add interactivity to your site with JavaScript.
+
+### ← assets
+
+Drag in `assets`, like images or music, to add them to your project
+
+Made by [Glitch](https://glitch.com/)
+-------------------
+
+\ ゜o゜)ノ
